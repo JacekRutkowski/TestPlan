@@ -1,5 +1,5 @@
 # tester.CodersGuru.pl
-Plan Testów Platformy tester.codersguru.pl
+Platforma tester.codersguru.pl
 
 * Specyfikacja
 * Plan Testów
